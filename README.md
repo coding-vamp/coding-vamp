@@ -1,4 +1,4 @@
-# Hi There 👋, I'm Gabriel C.
+# Hi There 👋,
 
 
  **I am currently pursuing an Bachelor's degree in Computer Science at University of Washington - Bothell. I am passionate in problem solving and
@@ -38,15 +38,5 @@ Creating a dashboard to help model an easy accessible financial application usin
 
 Understanding API's and backend development so I can become a fullstack developer.
 
-### 📫 Connect with me
-
-<div display="flex">
-  <a href="https://discordapp.com/users/269337984610992131">
-    <img src="https://img.shields.io/badge/discord-%230077B5.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-
-
-   </div>
-
-
--->
+### Thanks for Reading!
+ - Gabriel C.
