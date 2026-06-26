@@ -39,4 +39,4 @@ Creating a dashboard to help model an easy accessible financial application usin
 Understanding API's and backend development so I can become a fullstack developer.
 
 ### Thanks for Reading!
- - Gabriel C.
+ -- Gabriel C.
