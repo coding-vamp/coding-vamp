@@ -1,42 +1,132 @@
-# Hi There 👋,
+<div align="center">
 
+Gabriel Cortez
 
- **I am currently pursuing an Bachelor's degree in Computer Science at University of Washington - Bothell. I am passionate in problem solving and
- like to create applications in my spare time.**
- 
+Software Engineer @ VECTR LLC
 
-# 🚀 About Me
+Building modern web applications, mobile experiences, and digital products.
 
-### 🗣️ My languages
+🌐 Website • 💼 LinkedIn
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%white" alt="Java"/>
-    <img src="https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=cplusplus&logoColor=%white" alt="c++"/>
+<br>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=black" alt="Profile Views"/>
 </div>
 
-### 💻 My Development Environment
+⸻
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/intellijidea-%2320232a.svg?style=for-the-badge&logo=intellijidea&logoColor=%white" alt="intellij"/>
-    <img src="https://img.shields.io/badge/clion-%2320232a.svg?style=for-the-badge&logo=clion&logoColor=%white" alt="intellij"/>
-     <img src="https://img.shields.io/badge/jUnit-%2320232a.svg?style=for-the-badge&logo=junit5&logoColor=%white" alt="c++"/>
-   </div>
+👋 About Me
 
-### 🌱 I’m currently learning 
+I’m a software engineer passionate about building software that is clean, scalable, and thoughtfully designed. I enjoy turning ideas into polished products—from responsive web applications to cross-platform mobile experiences.
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%white" alt="intellij"/>
-    <img src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%white" alt="c++"/>
-   </div>
+Outside of coding, I’m always exploring new technologies, improving my development workflow, and creating projects that challenge me to grow as an engineer.
 
-### 🔭 I’m currently working on
+⸻
 
-Creating a workout tracker application app to bring to mobile for end users.
-Creating a dashboard to help model an easy accessible financial application using react.
+🚀 Current Project
 
-### 🤔 I’m looking for help with
+💪 RepRally
 
-Understanding API's and backend development so I can become a fullstack developer.
+A cross-platform fitness application focused on helping users stay consistent with their training.
 
-### Thanks for Reading!
- -- Gabriel C.
+Features
+
+* 📅 Workout planning
+* 📈 Progress tracking
+* 🏋️ Exercise history
+* 📊 Performance analytics
+* ☁️ Cloud synchronization
+
+Built With
+
+* React Native
+* Expo
+* TypeScript
+* Convex
+* Clerk
+* RevenueCat
+
+⸻
+
+💻 Tech Stack
+
+Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,java,cpp,html,css" />
+</p>
+
+Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+Databases & Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,supabase" />
+</p>
+
+Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,cloudflare,npm" />
+</p>
+
+⸻
+
+🌱 Currently Learning
+
+* Software Architecture
+* Cloud Infrastructure
+* AI-Assisted Development
+* Performance Optimization
+* System Design
+
+⸻
+
+🎯 Goals
+
+* 🚀 Grow VECTR LLC into a modern digital studio
+* 📱 Launch production-ready applications
+* 🌎 Contribute to open-source projects
+* 📚 Continue learning every day
+* ⚡ Build software that makes a real impact
+
+⸻
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"/>
+</p>
+
+⸻
+
+📌 Featured Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,cloudflare,git,github,java,cpp" />
+</p>
+
+⸻
+
+<div align="center">
+
+🤝 Let’s Connect
+
+I’m always interested in collaborating on meaningful projects, exploring new technologies, and connecting with other developers.
+
+🌐 https://vectr.group
+
+</div>
