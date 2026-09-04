@@ -7,7 +7,7 @@ Building modern web applications, mobile experiences, and digital products.
 🌐 Website • 💼 LinkedIn
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=coding-vamp&style=flat-square&color=black" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=coding-vamp&style=flat-square&color=grey" alt="Profile Views"/>
 </div>
 
 ⸻
