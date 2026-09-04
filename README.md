@@ -2,8 +2,6 @@
 
 Gabriel Cortez
 
-Software Engineer @ VECTR LLC
-
 Building modern web applications, mobile experiences, and digital products.
 
 🌐 Website • 💼 LinkedIn
