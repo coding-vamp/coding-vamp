@@ -14,13 +14,13 @@ Building modern web applications, mobile experiences, and digital products.
 
 👋 About Me
 
-I’m a software engineer passionate about building software that is clean, scalable, and thoughtfully designed. I enjoy turning ideas into polished products—from responsive web applications to cross-platform mobile experiences.
+I’m a software engineer student passionate about building software that is clean, scalable, and thoughtfully designed.
 
-Outside of coding, I’m always exploring new technologies, improving my development workflow, and creating projects that challenge me to grow as an engineer.
+Outside of coding, I’m always exploring new technologies, working on my tattoo art, and playing video games.
 
 ⸻
 
-🚀 Current Project
+🚀 Finished Project
 
 💪 RepRally
 
@@ -91,8 +91,7 @@ Tools
 
 🎯 Goals
 
-* 🚀 Grow VECTR LLC into a modern digital studio
-* 📱 Launch production-ready applications
+* 🚀 Launch production-ready applications for clients
 * 🌎 Contribute to open-source projects
 * 📚 Continue learning every day
 * ⚡ Build software that makes a real impact
